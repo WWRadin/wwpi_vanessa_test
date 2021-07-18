@@ -1,0 +1,40 @@
+{
+"uuid": "a55aee7d-d7f8-419f-a9c0-e38c8721886a",
+"historyId": "Тесты_ОткрытиеФормКонфигурации - <PI_ClientManager>.Документы - <PI_ClientManager>.Перенос документа на текущий день : Документ.ВалютнаяСделка1.Форма.ФормаДокумента - <PI_ClientManager>",
+"name": "Перенос документа на текущий день : Документ.ВалютнаяСделка1.Форма.ФормаДокумента - <PI_ClientManager>",
+"fullName": "",
+"start": 1620305550607,
+"stop": 1620305550613,
+"statusDetails": {
+"known": false,
+"muted": false,
+"flaky": false,
+"message": "",
+"trace": ""
+},
+"status": "passed",
+"stage": "finished",
+"steps": [],
+"parameters": [],
+"labels": [
+{
+"name": "story",
+"value": "Документы - <PI_ClientManager>"
+},
+{
+"name": "feature",
+"value": "Тесты_ОткрытиеФормКонфигурации - <PI_ClientManager>"
+},
+{
+"name": "package",
+"value": "C:\\Users\\rappa\\Documents\\WWPI_vanessa_test\\tests\\smoke\\Тесты_ОткрытиеФормКонфигурации.epf"
+},
+{
+"name": "host",
+"value": "Тесты_ОткрытиеФормКонфигурации - <PI_ClientManager>"
+}
+],
+"links": [],
+"attachments": [],
+"description": "Тест_ПеренестиДокументНаТекущийДень_и_ОткрытьЕгоФорму"
+}

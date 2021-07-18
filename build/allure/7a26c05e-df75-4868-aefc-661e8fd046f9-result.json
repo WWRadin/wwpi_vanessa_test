@@ -1,0 +1,40 @@
+{
+"uuid": "19293222-611f-439d-a9e2-49a09b886006",
+"historyId": "Тесты_ОткрытиеФормКонфигурации - <PI_ClientManager>.Документы - <PI_ClientManager>.Документ.ВалютнаяСделка1.Форма.ФормаСписка - <PI_ClientManager>",
+"name": "Документ.ВалютнаяСделка1.Форма.ФормаСписка - <PI_ClientManager>",
+"fullName": "",
+"start": 1620305550709,
+"stop": 1620305550733,
+"statusDetails": {
+"known": false,
+"muted": false,
+"flaky": false,
+"message": "",
+"trace": ""
+},
+"status": "passed",
+"stage": "finished",
+"steps": [],
+"parameters": [],
+"labels": [
+{
+"name": "story",
+"value": "Документы - <PI_ClientManager>"
+},
+{
+"name": "feature",
+"value": "Тесты_ОткрытиеФормКонфигурации - <PI_ClientManager>"
+},
+{
+"name": "package",
+"value": "C:\\Users\\rappa\\Documents\\WWPI_vanessa_test\\tests\\smoke\\Тесты_ОткрытиеФормКонфигурации.epf"
+},
+{
+"name": "host",
+"value": "Тесты_ОткрытиеФормКонфигурации - <PI_ClientManager>"
+}
+],
+"links": [],
+"attachments": [],
+"description": "ТестДолжен_ОткрытьФорму_ПоМетаФорме"
+}

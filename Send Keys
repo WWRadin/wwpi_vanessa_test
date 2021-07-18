@@ -1,0 +1,2 @@
+Shell = Новый COMОбъект("Wscript.Shell");
+Shell.SendKeys("{Enter}");

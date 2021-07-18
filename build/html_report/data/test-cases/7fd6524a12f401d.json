@@ -1,0 +1,48 @@
+{
+  "uid" : "7fd6524a12f401d",
+  "name" : "Новые через копирование элементы : Справочник.ВидыОтправляемыхДокументов.Форма.ФормаГруппы - <PI_ClientManager>",
+  "fullName" : "",
+  "historyId" : "Тесты_ОткрытиеФормКонфигурации - <PI_ClientManager>.Справочники - <PI_ClientManager>.Новые через копирование элементы : Справочник.ВидыОтправляемыхДокументов.Форма.ФормаГруппы - <PI_ClientManager>",
+  "time" : {
+    "start" : 1620305532294,
+    "stop" : 1620305532335,
+    "duration" : 41
+  },
+  "description" : "Тест_ОткрытьФормуНовогоЭлементаСправочникаСоздаваемогоКопированием",
+  "descriptionHtml" : "<p>Тест_ОткрытьФормуНовогоЭлементаСправочникаСоздаваемогоКопированием</p>\n",
+  "status" : "passed",
+  "statusMessage" : "",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "Справочники - <PI_ClientManager>"
+  }, {
+    "name" : "feature",
+    "value" : "Тесты_ОткрытиеФормКонфигурации - <PI_ClientManager>"
+  }, {
+    "name" : "package",
+    "value" : "C:\\Users\\rappa\\Documents\\WWPI_vanessa_test\\tests\\smoke\\Тесты_ОткрытиеФормКонфигурации.epf"
+  }, {
+    "name" : "host",
+    "value" : "Тесты_ОткрытиеФормКонфигурации - <PI_ClientManager>"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7fd6524a12f401d.json",
+  "parameterValues" : [ ]
+}

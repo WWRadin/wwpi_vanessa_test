@@ -1,0 +1,15 @@
+{
+  "total" : 1,
+  "items" : [ {
+    "uid" : "03e8557aa26f9c27913fc8914c1be446",
+    "name" : "Тесты_ОткрытиеФормКонфигурации - <PI_ClientManager>",
+    "statistic" : {
+      "failed" : 2,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
+    }
+  } ]
+}

@@ -1,0 +1,48 @@
+{
+  "uid" : "a5b004557d2cb952",
+  "name" : "Перенос документа на текущий день : Документ.ОперацииЦБ.Форма.ФормаДокумента - <PI_ClientManager>",
+  "fullName" : "",
+  "historyId" : "Тесты_ОткрытиеФормКонфигурации - <PI_ClientManager>.Документы - <PI_ClientManager>.Перенос документа на текущий день : Документ.ОперацииЦБ.Форма.ФормаДокумента - <PI_ClientManager>",
+  "time" : {
+    "start" : 1620305556320,
+    "stop" : 1620305556326,
+    "duration" : 6
+  },
+  "description" : "Тест_ПеренестиДокументНаТекущийДень_и_ОткрытьЕгоФорму",
+  "descriptionHtml" : "<p>Тест_ПеренестиДокументНаТекущийДень_и_ОткрытьЕгоФорму</p>\n",
+  "status" : "passed",
+  "statusMessage" : "",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "Документы - <PI_ClientManager>"
+  }, {
+    "name" : "feature",
+    "value" : "Тесты_ОткрытиеФормКонфигурации - <PI_ClientManager>"
+  }, {
+    "name" : "package",
+    "value" : "C:\\Users\\rappa\\Documents\\WWPI_vanessa_test\\tests\\smoke\\Тесты_ОткрытиеФормКонфигурации.epf"
+  }, {
+    "name" : "host",
+    "value" : "Тесты_ОткрытиеФормКонфигурации - <PI_ClientManager>"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a5b004557d2cb952.json",
+  "parameterValues" : [ ]
+}

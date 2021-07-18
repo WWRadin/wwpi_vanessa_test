@@ -1,0 +1,52 @@
+{
+  "uid" : "2e96026fc8c7f1f3",
+  "name" : "Справочник.РегламентированныеОтчеты.Форма.ФормаСписка - <PI_ClientManager>",
+  "fullName" : "",
+  "historyId" : "Тесты_ОткрытиеФормКонфигурации - <PI_ClientManager>.Справочники - <PI_ClientManager>.Справочник.РегламентированныеОтчеты.Форма.ФормаСписка - <PI_ClientManager>",
+  "time" : {
+    "start" : 1620305542999,
+    "stop" : 1620305543030,
+    "duration" : 31
+  },
+  "description" : "ТестДолжен_ОткрытьФорму_ПоМетаФорме",
+  "descriptionHtml" : "<p>ТестДолжен_ОткрытьФорму_ПоМетаФорме</p>\n",
+  "status" : "failed",
+  "statusMessage" : "{ВнешняяОбработка.Тесты_ОткрытиеФормКонфигурации.Форма.ПолучениеФорм.Форма(8)}: Ошибка при вызове метода контекста (ПолучитьФорму)\n\tРезультат = ПолучитьФорму(ИмяФормы, Параметры, Владелец, Уникальность, Окно);\nпо причине:\nОшибка инициализации модуля: Справочник.РегламентированныеОтчеты.Форма.ФормаСписка.Форма\nпо причине:\n{Справочник.РегламентированныеОтчеты.Форма.ФормаСписка.Форма(69,13)}: Переменная не определена (РегламентированнаяОтчетность)",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "Справочники - <PI_ClientManager>"
+  }, {
+    "name" : "feature",
+    "value" : "Тесты_ОткрытиеФормКонфигурации - <PI_ClientManager>"
+  }, {
+    "name" : "package",
+    "value" : "C:\\Users\\rappa\\Documents\\WWPI_vanessa_test\\tests\\smoke\\Тесты_ОткрытиеФормКонфигурации.epf"
+  }, {
+    "name" : "host",
+    "value" : "Тесты_ОткрытиеФормКонфигурации - <PI_ClientManager>"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "2e96026fc8c7f1f3.json",
+  "parameterValues" : [ ]
+}

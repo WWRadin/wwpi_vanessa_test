@@ -1,0 +1,40 @@
+{
+"uuid": "56db9eee-73ca-41e9-80b0-4e131cc73986",
+"historyId": "Тесты_ОткрытиеФормКонфигурации - <PI_ClientManager>.Документы - <PI_ClientManager>.Новые документы : Документ.ОткрытыеПозиции.Форма.ФормаДокумента - <PI_ClientManager>",
+"name": "Новые документы : Документ.ОткрытыеПозиции.Форма.ФормаДокумента - <PI_ClientManager>",
+"fullName": "",
+"start": 1620305557549,
+"stop": 1620305557638,
+"statusDetails": {
+"known": false,
+"muted": false,
+"flaky": false,
+"message": "",
+"trace": ""
+},
+"status": "passed",
+"stage": "finished",
+"steps": [],
+"parameters": [],
+"labels": [
+{
+"name": "story",
+"value": "Документы - <PI_ClientManager>"
+},
+{
+"name": "feature",
+"value": "Тесты_ОткрытиеФормКонфигурации - <PI_ClientManager>"
+},
+{
+"name": "package",
+"value": "C:\\Users\\rappa\\Documents\\WWPI_vanessa_test\\tests\\smoke\\Тесты_ОткрытиеФормКонфигурации.epf"
+},
+{
+"name": "host",
+"value": "Тесты_ОткрытиеФормКонфигурации - <PI_ClientManager>"
+}
+],
+"links": [],
+"attachments": [],
+"description": "Тест_ОткрытьФормуНовогоДокумента"
+}

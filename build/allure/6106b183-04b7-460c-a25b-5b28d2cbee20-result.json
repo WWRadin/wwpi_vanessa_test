@@ -1,0 +1,40 @@
+{
+"uuid": "e2c7a051-821c-4776-b278-fa42ecaf3fac",
+"historyId": "Тесты_ОткрытиеФормКонфигурации - <PI_ClientManager>.Документы - <PI_ClientManager>.Существующие документы : Документ.SMS.Форма.ФормаДокумента - <PI_ClientManager>",
+"name": "Существующие документы : Документ.SMS.Форма.ФормаДокумента - <PI_ClientManager>",
+"fullName": "",
+"start": 1620305549544,
+"stop": 1620305549553,
+"statusDetails": {
+"known": false,
+"muted": false,
+"flaky": false,
+"message": "",
+"trace": ""
+},
+"status": "passed",
+"stage": "finished",
+"steps": [],
+"parameters": [],
+"labels": [
+{
+"name": "story",
+"value": "Документы - <PI_ClientManager>"
+},
+{
+"name": "feature",
+"value": "Тесты_ОткрытиеФормКонфигурации - <PI_ClientManager>"
+},
+{
+"name": "package",
+"value": "C:\\Users\\rappa\\Documents\\WWPI_vanessa_test\\tests\\smoke\\Тесты_ОткрытиеФормКонфигурации.epf"
+},
+{
+"name": "host",
+"value": "Тесты_ОткрытиеФормКонфигурации - <PI_ClientManager>"
+}
+],
+"links": [],
+"attachments": [],
+"description": "Тест_ОткрытьФормуСуществующегоДокумента"
+}

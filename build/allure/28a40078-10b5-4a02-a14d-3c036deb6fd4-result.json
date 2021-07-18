@@ -1,0 +1,40 @@
+{
+"uuid": "c8427733-f2cc-46e9-a4e4-51a781c314f2",
+"historyId": "Тесты_ОткрытиеФормКонфигурации - <PI_ClientManager>.Справочники - <PI_ClientManager>.Новые элементы : Справочник.РегистрИзменений.Форма.ФормаЭлемента - <PI_ClientManager>",
+"name": "Новые элементы : Справочник.РегистрИзменений.Форма.ФормаЭлемента - <PI_ClientManager>",
+"fullName": "",
+"start": 1620305542669,
+"stop": 1620305542699,
+"statusDetails": {
+"known": false,
+"muted": false,
+"flaky": false,
+"message": "",
+"trace": ""
+},
+"status": "passed",
+"stage": "finished",
+"steps": [],
+"parameters": [],
+"labels": [
+{
+"name": "story",
+"value": "Справочники - <PI_ClientManager>"
+},
+{
+"name": "feature",
+"value": "Тесты_ОткрытиеФормКонфигурации - <PI_ClientManager>"
+},
+{
+"name": "package",
+"value": "C:\\Users\\rappa\\Documents\\WWPI_vanessa_test\\tests\\smoke\\Тесты_ОткрытиеФормКонфигурации.epf"
+},
+{
+"name": "host",
+"value": "Тесты_ОткрытиеФормКонфигурации - <PI_ClientManager>"
+}
+],
+"links": [],
+"attachments": [],
+"description": "Тест_ОткрытьФормуНовогоЭлементаСправочника"
+}

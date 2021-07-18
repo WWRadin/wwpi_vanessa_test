@@ -1,0 +1,40 @@
+{
+"uuid": "054eaa8e-da64-4d82-b56e-68ceca624bc4",
+"historyId": "Тесты_ОткрытиеФормКонфигурации - <PI_ClientManager>.Документы - <PI_ClientManager>.Новые документы : Документ.ОплатаЦБ.Форма.ФормаДокумента - <PI_ClientManager>",
+"name": "Новые документы : Документ.ОплатаЦБ.Форма.ФормаДокумента - <PI_ClientManager>",
+"fullName": "",
+"start": 1620305557429,
+"stop": 1620305557515,
+"statusDetails": {
+"known": false,
+"muted": false,
+"flaky": false,
+"message": "{ВнешняяОбработка.БазовыеУтверждения.МодульОбъекта(370)}: [Failed] Переданный параметр (ложь) не является Истиной, а хотели, чтобы являлся.\nТестируемаяФорма \"Документ.ОплатаЦБ.Форма.ФормаДокумента\" не открылась, а должна была открыться\n\u0009ВызватьИсключение Префикс + \" \" + СообщениеОшибки;",
+"trace": ""
+},
+"status": "broken",
+"stage": "finished",
+"steps": [],
+"parameters": [],
+"labels": [
+{
+"name": "story",
+"value": "Документы - <PI_ClientManager>"
+},
+{
+"name": "feature",
+"value": "Тесты_ОткрытиеФормКонфигурации - <PI_ClientManager>"
+},
+{
+"name": "package",
+"value": "C:\\Users\\rappa\\Documents\\WWPI_vanessa_test\\tests\\smoke\\Тесты_ОткрытиеФормКонфигурации.epf"
+},
+{
+"name": "host",
+"value": "Тесты_ОткрытиеФормКонфигурации - <PI_ClientManager>"
+}
+],
+"links": [],
+"attachments": [],
+"description": "Тест_ОткрытьФормуНовогоДокумента"
+}

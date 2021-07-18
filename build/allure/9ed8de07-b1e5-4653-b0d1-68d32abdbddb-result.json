@@ -1,0 +1,40 @@
+{
+"uuid": "c0790599-f500-46c8-b535-11fdd348c9ca",
+"historyId": "Тесты_ОткрытиеФормКонфигурации - <PI_ClientManager>.Документы - <PI_ClientManager>.объект находится в исключениях : Документ.СведенияОДоходахФизлиц.Форма.ФормаВыбора - <PI_ClientManager>",
+"name": "объект находится в исключениях : Документ.СведенияОДоходахФизлиц.Форма.ФормаВыбора - <PI_ClientManager>",
+"fullName": "",
+"start": 1620305562124,
+"stop": 1620305562127,
+"statusDetails": {
+"known": false,
+"muted": false,
+"flaky": false,
+"message": "{ВнешняяОбработка.xddTestRunner.МодульОбъекта(545)}: [Pending] объект находится в исключениях\n\u0009ВызватьИсключение Префикс + \" \" + Сообщение;",
+"trace": ""
+},
+"status": "skipped",
+"stage": "finished",
+"steps": [],
+"parameters": [],
+"labels": [
+{
+"name": "story",
+"value": "Документы - <PI_ClientManager>"
+},
+{
+"name": "feature",
+"value": "Тесты_ОткрытиеФормКонфигурации - <PI_ClientManager>"
+},
+{
+"name": "package",
+"value": "C:\\Users\\rappa\\Documents\\WWPI_vanessa_test\\tests\\smoke\\Тесты_ОткрытиеФормКонфигурации.epf"
+},
+{
+"name": "host",
+"value": "Тесты_ОткрытиеФормКонфигурации - <PI_ClientManager>"
+}
+],
+"links": [],
+"attachments": [],
+"description": "ТестДолжен_ПропуститьТестФормы"
+}

@@ -1,0 +1,40 @@
+{
+"uuid": "dcbe4c6a-b500-430d-af0c-8ac10d721385",
+"historyId": "Тесты_ОткрытиеФормКонфигурации - <PI_ClientManager>.Документы - <PI_ClientManager>.Новые документы : Документ.ШтрафныеСанкции.Форма.ФормаДокумента - <PI_ClientManager>",
+"name": "Новые документы : Документ.ШтрафныеСанкции.Форма.ФормаДокумента - <PI_ClientManager>",
+"fullName": "",
+"start": 1620305564303,
+"stop": 1620305564370,
+"statusDetails": {
+"known": false,
+"muted": false,
+"flaky": false,
+"message": "",
+"trace": ""
+},
+"status": "passed",
+"stage": "finished",
+"steps": [],
+"parameters": [],
+"labels": [
+{
+"name": "story",
+"value": "Документы - <PI_ClientManager>"
+},
+{
+"name": "feature",
+"value": "Тесты_ОткрытиеФормКонфигурации - <PI_ClientManager>"
+},
+{
+"name": "package",
+"value": "C:\\Users\\rappa\\Documents\\WWPI_vanessa_test\\tests\\smoke\\Тесты_ОткрытиеФормКонфигурации.epf"
+},
+{
+"name": "host",
+"value": "Тесты_ОткрытиеФормКонфигурации - <PI_ClientManager>"
+}
+],
+"links": [],
+"attachments": [],
+"description": "Тест_ОткрытьФормуНовогоДокумента"
+}

@@ -1,0 +1,48 @@
+{
+  "uid" : "55d1d86e5b8d0513",
+  "name" : "объект находится в исключениях : Справочник.РежимыТоргов.Форма.ФормаСписка - <PI_ClientManager>",
+  "fullName" : "",
+  "historyId" : "Тесты_ОткрытиеФормКонфигурации - <PI_ClientManager>.Справочники - <PI_ClientManager>.объект находится в исключениях : Справочник.РежимыТоргов.Форма.ФормаСписка - <PI_ClientManager>",
+  "time" : {
+    "start" : 1620305543219,
+    "stop" : 1620305543222,
+    "duration" : 3
+  },
+  "description" : "ТестДолжен_ПропуститьТестФормы",
+  "descriptionHtml" : "<p>ТестДолжен_ПропуститьТестФормы</p>\n",
+  "status" : "skipped",
+  "statusMessage" : "{ВнешняяОбработка.xddTestRunner.МодульОбъекта(545)}: [Pending] объект находится в исключениях\n\tВызватьИсключение Префикс + \" \" + Сообщение;",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "Справочники - <PI_ClientManager>"
+  }, {
+    "name" : "feature",
+    "value" : "Тесты_ОткрытиеФормКонфигурации - <PI_ClientManager>"
+  }, {
+    "name" : "package",
+    "value" : "C:\\Users\\rappa\\Documents\\WWPI_vanessa_test\\tests\\smoke\\Тесты_ОткрытиеФормКонфигурации.epf"
+  }, {
+    "name" : "host",
+    "value" : "Тесты_ОткрытиеФормКонфигурации - <PI_ClientManager>"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "55d1d86e5b8d0513.json",
+  "parameterValues" : [ ]
+}

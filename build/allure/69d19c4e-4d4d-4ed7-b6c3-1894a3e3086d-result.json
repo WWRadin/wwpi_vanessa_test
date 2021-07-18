@@ -1,0 +1,40 @@
+{
+"uuid": "5cb26874-3bc5-488e-b877-adf517a2acd2",
+"historyId": "Тесты_ОткрытиеФормКонфигурации - <PI_ClientManager>.Документы - <PI_ClientManager>.Существующие документы : Документ.РегулировкаЛиквидности.Форма.ФормаДокумента - <PI_ClientManager>",
+"name": "Существующие документы : Документ.РегулировкаЛиквидности.Форма.ФормаДокумента - <PI_ClientManager>",
+"fullName": "",
+"start": 1620305561445,
+"stop": 1620305561524,
+"statusDetails": {
+"known": false,
+"muted": false,
+"flaky": false,
+"message": "",
+"trace": ""
+},
+"status": "passed",
+"stage": "finished",
+"steps": [],
+"parameters": [],
+"labels": [
+{
+"name": "story",
+"value": "Документы - <PI_ClientManager>"
+},
+{
+"name": "feature",
+"value": "Тесты_ОткрытиеФормКонфигурации - <PI_ClientManager>"
+},
+{
+"name": "package",
+"value": "C:\\Users\\rappa\\Documents\\WWPI_vanessa_test\\tests\\smoke\\Тесты_ОткрытиеФормКонфигурации.epf"
+},
+{
+"name": "host",
+"value": "Тесты_ОткрытиеФормКонфигурации - <PI_ClientManager>"
+}
+],
+"links": [],
+"attachments": [],
+"description": "Тест_ОткрытьФормуСуществующегоДокумента"
+}

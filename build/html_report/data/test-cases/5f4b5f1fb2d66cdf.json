@@ -1,0 +1,48 @@
+{
+  "uid" : "5f4b5f1fb2d66cdf",
+  "name" : "Справочник.АдресныеСокращения.Форма.ФормаВыбора - <PI_ClientManager>",
+  "fullName" : "",
+  "historyId" : "Тесты_ОткрытиеФормКонфигурации - <PI_ClientManager>.Справочники - <PI_ClientManager>.Справочник.АдресныеСокращения.Форма.ФормаВыбора - <PI_ClientManager>",
+  "time" : {
+    "start" : 1620305529198,
+    "stop" : 1620305529213,
+    "duration" : 15
+  },
+  "description" : "ТестДолжен_ОткрытьФорму_ПоМетаФорме",
+  "descriptionHtml" : "<p>ТестДолжен_ОткрытьФорму_ПоМетаФорме</p>\n",
+  "status" : "passed",
+  "statusMessage" : "",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "Справочники - <PI_ClientManager>"
+  }, {
+    "name" : "feature",
+    "value" : "Тесты_ОткрытиеФормКонфигурации - <PI_ClientManager>"
+  }, {
+    "name" : "package",
+    "value" : "C:\\Users\\rappa\\Documents\\WWPI_vanessa_test\\tests\\smoke\\Тесты_ОткрытиеФормКонфигурации.epf"
+  }, {
+    "name" : "host",
+    "value" : "Тесты_ОткрытиеФормКонфигурации - <PI_ClientManager>"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5f4b5f1fb2d66cdf.json",
+  "parameterValues" : [ ]
+}

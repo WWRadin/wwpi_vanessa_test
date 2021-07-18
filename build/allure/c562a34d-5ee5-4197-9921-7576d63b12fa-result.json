@@ -1,0 +1,40 @@
+{
+"uuid": "34dd9d22-b942-49af-ac53-f5df0e1f9df3",
+"historyId": "Тесты_ОткрытиеФормКонфигурации - <PI_ClientManager>.Документы - <PI_ClientManager>.Существующие документы : Документ.СправкиПоНДФЛДляРасчетаПоНалогуНаПрибыль.Форма.ФормаДокумента - <PI_ClientManager>",
+"name": "Существующие документы : Документ.СправкиПоНДФЛДляРасчетаПоНалогуНаПрибыль.Форма.ФормаДокумента - <PI_ClientManager>",
+"fullName": "",
+"start": 1620305562878,
+"stop": 1620305562888,
+"statusDetails": {
+"known": false,
+"muted": false,
+"flaky": false,
+"message": "",
+"trace": ""
+},
+"status": "passed",
+"stage": "finished",
+"steps": [],
+"parameters": [],
+"labels": [
+{
+"name": "story",
+"value": "Документы - <PI_ClientManager>"
+},
+{
+"name": "feature",
+"value": "Тесты_ОткрытиеФормКонфигурации - <PI_ClientManager>"
+},
+{
+"name": "package",
+"value": "C:\\Users\\rappa\\Documents\\WWPI_vanessa_test\\tests\\smoke\\Тесты_ОткрытиеФормКонфигурации.epf"
+},
+{
+"name": "host",
+"value": "Тесты_ОткрытиеФормКонфигурации - <PI_ClientManager>"
+}
+],
+"links": [],
+"attachments": [],
+"description": "Тест_ОткрытьФормуСуществующегоДокумента"
+}

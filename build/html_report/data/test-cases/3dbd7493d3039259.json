@@ -1,0 +1,48 @@
+{
+  "uid" : "3dbd7493d3039259",
+  "name" : "Новые элементы : Справочник.Банки.Форма.ФормаЭлемента - <PI_ClientManager>",
+  "fullName" : "",
+  "historyId" : "Тесты_ОткрытиеФормКонфигурации - <PI_ClientManager>.Справочники - <PI_ClientManager>.Новые элементы : Справочник.Банки.Форма.ФормаЭлемента - <PI_ClientManager>",
+  "time" : {
+    "start" : 1620305529707,
+    "stop" : 1620305529734,
+    "duration" : 27
+  },
+  "description" : "Тест_ОткрытьФормуНовогоЭлементаСправочника",
+  "descriptionHtml" : "<p>Тест_ОткрытьФормуНовогоЭлементаСправочника</p>\n",
+  "status" : "passed",
+  "statusMessage" : "",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "Справочники - <PI_ClientManager>"
+  }, {
+    "name" : "feature",
+    "value" : "Тесты_ОткрытиеФормКонфигурации - <PI_ClientManager>"
+  }, {
+    "name" : "package",
+    "value" : "C:\\Users\\rappa\\Documents\\WWPI_vanessa_test\\tests\\smoke\\Тесты_ОткрытиеФормКонфигурации.epf"
+  }, {
+    "name" : "host",
+    "value" : "Тесты_ОткрытиеФормКонфигурации - <PI_ClientManager>"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3dbd7493d3039259.json",
+  "parameterValues" : [ ]
+}

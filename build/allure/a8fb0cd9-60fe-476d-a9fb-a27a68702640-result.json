@@ -1,0 +1,40 @@
+{
+"uuid": "2a813a35-813f-42e2-8409-908e5a2bd58d",
+"historyId": "Тесты_ОткрытиеФормКонфигурации - <PI_ClientManager>.Документы - <PI_ClientManager>.Документ.НазначениеГлобальныхЛимитов.Форма.ФормаСпискаУправляемая - <PI_ClientManager>",
+"name": "Документ.НазначениеГлобальныхЛимитов.Форма.ФормаСпискаУправляемая - <PI_ClientManager>",
+"fullName": "",
+"start": 1620305553299,
+"stop": 1620305553390,
+"statusDetails": {
+"known": false,
+"muted": false,
+"flaky": false,
+"message": "",
+"trace": ""
+},
+"status": "passed",
+"stage": "finished",
+"steps": [],
+"parameters": [],
+"labels": [
+{
+"name": "story",
+"value": "Документы - <PI_ClientManager>"
+},
+{
+"name": "feature",
+"value": "Тесты_ОткрытиеФормКонфигурации - <PI_ClientManager>"
+},
+{
+"name": "package",
+"value": "C:\\Users\\rappa\\Documents\\WWPI_vanessa_test\\tests\\smoke\\Тесты_ОткрытиеФормКонфигурации.epf"
+},
+{
+"name": "host",
+"value": "Тесты_ОткрытиеФормКонфигурации - <PI_ClientManager>"
+}
+],
+"links": [],
+"attachments": [],
+"description": "ТестДолжен_ОткрытьФорму_ПоМетаФорме"
+}

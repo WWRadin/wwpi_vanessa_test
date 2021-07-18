@@ -1,0 +1,52 @@
+{
+  "uid" : "2d301c498fd95579",
+  "name" : "Новые через копирование элементы : Справочник.ТипыСчетов.Форма.ФормаЭлемента - <PI_ClientManager>",
+  "fullName" : "",
+  "historyId" : "Тесты_ОткрытиеФормКонфигурации - <PI_ClientManager>.Справочники - <PI_ClientManager>.Новые через копирование элементы : Справочник.ТипыСчетов.Форма.ФормаЭлемента - <PI_ClientManager>",
+  "time" : {
+    "start" : 1620305548995,
+    "stop" : 1620305549008,
+    "duration" : 13
+  },
+  "description" : "Тест_ОткрытьФормуНовогоЭлементаСправочникаСоздаваемогоКопированием",
+  "descriptionHtml" : "<p>Тест_ОткрытьФормуНовогоЭлементаСправочникаСоздаваемогоКопированием</p>\n",
+  "status" : "failed",
+  "statusMessage" : "{ВнешняяОбработка.Тесты_ОткрытиеФормКонфигурации.МодульОбъекта(808)}: Ошибка при вызове метода контекста (Скопировать)\n\t\t\t\t\tСсылочныйОбъект = СсылкаОбъектаИлиСамОбъект.Скопировать();\nпо причине:\nОшибка при выполнении обработчика - 'ПриКопировании'\nпо причине:\n{ОбщийМодуль.ОбработчикиСобытий.Модуль(509)}: Поле объекта не обнаружено (УиД)\n\t\t\t\t\tСсылочныйОбъект = СсылкаОбъектаИлиСамОбъект.Скопировать();",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "Справочники - <PI_ClientManager>"
+  }, {
+    "name" : "feature",
+    "value" : "Тесты_ОткрытиеФормКонфигурации - <PI_ClientManager>"
+  }, {
+    "name" : "package",
+    "value" : "C:\\Users\\rappa\\Documents\\WWPI_vanessa_test\\tests\\smoke\\Тесты_ОткрытиеФормКонфигурации.epf"
+  }, {
+    "name" : "host",
+    "value" : "Тесты_ОткрытиеФормКонфигурации - <PI_ClientManager>"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "2d301c498fd95579.json",
+  "parameterValues" : [ ]
+}
