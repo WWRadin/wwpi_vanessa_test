@@ -1,40 +1,79 @@
-{
-"uuid": "2c9765d4-02fd-405f-ae0d-188658c67392",
-"historyId": "Тесты_ОткрытиеФормКонфигурации - <PI_ClientManager>.Справочники - <PI_ClientManager>.Новые элементы : Справочник.АвтоматическиеОперации.Форма.ФормаЭлемента - <PI_ClientManager>",
-"name": "Новые элементы : Справочник.АвтоматическиеОперации.Форма.ФормаЭлемента - <PI_ClientManager>",
-"fullName": "",
-"start": 1620305528858,
-"stop": 1620305528947,
-"statusDetails": {
-"known": false,
-"muted": false,
-"flaky": false,
-"message": "",
-"trace": ""
-},
-"status": "passed",
-"stage": "finished",
-"steps": [],
-"parameters": [],
-"labels": [
-{
-"name": "story",
-"value": "Справочники - <PI_ClientManager>"
-},
-{
-"name": "feature",
-"value": "Тесты_ОткрытиеФормКонфигурации - <PI_ClientManager>"
-},
-{
-"name": "package",
-"value": "C:\\Users\\rappa\\Documents\\WWPI_vanessa_test\\tests\\smoke\\Тесты_ОткрытиеФормКонфигурации.epf"
-},
-{
-"name": "host",
-"value": "Тесты_ОткрытиеФормКонфигурации - <PI_ClientManager>"
-}
-],
-"links": [],
-"attachments": [],
-"description": "Тест_ОткрытьФормуНовогоЭлементаСправочника"
+{
+
+"uuid": "2c9765d4-02fd-405f-ae0d-188658c67392",
+
+"historyId": "Тесты_ОткрытиеФормКонфигурации - <PI_ClientManager>.Справочники - <PI_ClientManager>.Новые элементы : Справочник.АвтоматическиеОперации.Форма.ФормаЭлемента - <PI_ClientManager>",
+
+"name": "Новые элементы : Справочник.АвтоматическиеОперации.Форма.ФормаЭлемента - <PI_ClientManager>",
+
+"fullName": "7878",
+
+"start": 1620305528858,
+
+"stop": 1620305528947,
+
+"statusDetails": {
+
+"known": false,
+
+"muted": false,
+
+"flaky": false,
+
+"message": "",
+
+"trace": ""
+
+},
+
+"status": "passed",
+
+"stage": "finished",
+
+"steps": [],
+
+"parameters": [],
+
+"labels": [
+
+{
+
+"name": "story",
+
+"value": "Справочники - <PI_ClientManager>"
+
+},
+
+{
+
+"name": "feature",
+
+"value": "Тесты_ОткрытиеФормКонфигурации - <PI_ClientManager>"
+
+},
+
+{
+
+"name": "package",
+
+"value": "C:\\Users\\rappa\\Documents\\WWPI_vanessa_test\\tests\\smoke\\Тесты_ОткрытиеФормКонфигурации.epf"
+
+},
+
+{
+
+"name": "host",
+
+"value": "Тесты_ОткрытиеФормКонфигурации - <PI_ClientManager>"
+
+}
+
+],
+
+"links": [],
+
+"attachments": [],
+
+"description": "Тест_ОткрытьФормуНовогоЭлементаСправочника"
+
 }
