@@ -4,7 +4,7 @@
 del .\build\allure\*.json
 
 @call vrunner xunit 
-@rem@call vrunner vanessa
+@call vrunner vanessa
 
 @rem Конвертация данных  allure и вывод отчета
 @call allure generate --clean .\build\allure -o .\build\html_report
